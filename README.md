@@ -13,6 +13,4 @@ Neste repositório encontram-se os materias das disciplinas ministradas na UFERS
 
 ### [YouTube]()
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sguimaraaes@gmail.com)
-
 ### Dúvidas? Me manda um [e-mail]() 
