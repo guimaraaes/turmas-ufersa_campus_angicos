@@ -11,6 +11,7 @@ Neste repositório encontram-se os materias das disciplinas ministradas na UFERS
 - Referencial bibliográfico complementar (artigos, cursos, projetos)
 
 
-### [Canal no YouTube]()
+### [YouTube]()
 
-### [Contato institucional]()
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sguimaraaes@gmail.com)
+
