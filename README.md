@@ -5,12 +5,11 @@
 
 Neste repositório encontram-se os materias das disciplinas ministradas na UFERSA Campus Angicos. 
 
+- Plano de curso
 - Ementa da disciplina
 - Slide das aulas
-- Lista de exercícios
 - Referencial bibliográfico complementar (artigos, cursos, projetos)
 
+As aulas são gravadas e disponibilizadas no [YouTube](https://www.youtube.com/). O acesso é dispobililizado em links no [SIGAA UFERSA](https://sigaa.ufersa.edu.br/)
 
-### [YouTube]()
-
-### Dúvidas? Me manda um [e-mail]() 
+### Dúvidas? Me manda um [e-mail](sara.negreiros@ufersa.edu.br) 
