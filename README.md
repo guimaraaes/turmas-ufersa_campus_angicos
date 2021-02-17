@@ -1,7 +1,7 @@
 <img src="assets/IMG_20210124_112136.jpg.png"
      alt="grid_eng_compu"/>
 
-# turmas-UFERSA_campus_angicos
+# turmas-ufersa_campus_angicos
 
 Neste repositório encontram-se os materias das disciplinas ministradas na UFERSA Campus Angicos. 
 
