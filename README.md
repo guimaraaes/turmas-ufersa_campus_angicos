@@ -14,4 +14,4 @@ As aulas são gravadas e disponibilizadas no [YouTube](https://www.youtube.com/)
 
 ### Dúvidas? Me manda um [e-mail](sara.negreiros@ufersa.edu.br) 
 
-<img src="https://raw.githubusercontent.com/guimaraaes/guimaraaes/master/assets/Captura%20de%20tela%20de%202021-02-27%2016-01-22.png" >
+<img src="https://raw.githubusercontent.com/guimaraaes/guimaraaes/master/assets/card-readme.png" >
