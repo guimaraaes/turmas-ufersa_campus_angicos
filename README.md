@@ -12,6 +12,6 @@ Neste repositório encontram-se os materias das disciplinas ministradas na UFERS
 
 As aulas são gravadas e disponibilizadas no [YouTube](https://www.youtube.com/). O acesso é dispobililizado em links no [SIGAA UFERSA](https://sigaa.ufersa.edu.br/)
 
-### :mailbox:Dúvidas? Me manda um [e-mail](sara.negreiros@ufersa.edu.br) 
+### :mailbox: Dúvidas? Me manda um [e-mail](sara.negreiros@ufersa.edu.br) 
 
 <img src="https://raw.githubusercontent.com/guimaraaes/guimaraaes/master/assets/card-readme.png" >
